@@ -25,3 +25,21 @@ Aqui está o gráfico de distribuição de acidentes ao longo do dia, por tipo d
 Gráfico que mostra a média de feridos por condição meteorológica:
 
 ![Média de Feridos por Condição Meteorológica](images/grafico_lesoes_condicao_meteorologica.png)
+
+## Causas de Acidente que Mais Impactam no Número de Feridos
+
+Este gráfico mostra os coeficientes das causas de acidente que mais influenciam o número de feridos:
+
+![Causas de Acidente que Mais Impactam](images/grafico_coeficiente_impacto_feridos.png)
+
+## Média da Probabilidade de Acidente Fatal por Fase do Dia
+
+Este gráfico apresenta a média da probabilidade de acidentes fatais em diferentes fases do dia:
+
+![Média da Probabilidade de Acidente Fatal](images/grafico_probabilidade_acidentesf_pdia.png)
+
+## Fatores Mais Relevantes nas Causas de Acidentes Fatais
+
+Gráfico que apresenta os fatores mais relevantes nas causas de acidentes que levam à fatalidade:
+
+![Fatores Relevantes](images/grafico_fatores_relevantes_nmortos.png)
