@@ -38,6 +38,12 @@ Este gráfico apresenta a média da probabilidade de acidentes fatais em diferen
 
 ![Média da Probabilidade de Acidente Fatal](images/grafico_probabilidade_acidentesf_pdia.png)
 
+## Probabilidade de Acidente Fatal por Fase do Dia Especifico
+
+Este gráfico apresenta a probabilidade de acidentes fatais especifica em diferentes fases do dia:
+
+![Probabilidade de Acidente Fatal Especifico](images/grafico_probabilidade_acidentesf_pdia_especifico.png)
+
 ## Fatores Mais Relevantes nas Causas de Acidentes Fatais
 
 Gráfico que apresenta os fatores mais relevantes nas causas de acidentes que levam à fatalidade:
